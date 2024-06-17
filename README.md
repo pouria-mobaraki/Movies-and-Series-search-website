@@ -6,7 +6,7 @@
 
 
 ## Demo
-click [here]() to see demo
+click [here](https://pouria-mobaraki.github.io/Movies-and-Series-search-website/) to see demo
 
 ## About the project
 I used Api from this source (www.omdbapi.com/?i=tt3896198&apikey=4e1bc0fd) and fetch information with promise method.
